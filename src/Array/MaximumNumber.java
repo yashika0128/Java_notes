@@ -23,7 +23,7 @@ public class MaximumNumber {
         // (2). Works for -ve and +ve both
         int max= arr[0];
         // (3). int max = Integer.MIN_VALUE;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++ ) {
             if(arr[i]>max){
                 max = arr[i];
             }
