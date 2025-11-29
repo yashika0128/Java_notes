@@ -1,4 +1,4 @@
-package Lecture03;
+package Lecture03BasicLoops;
 import java.util.Scanner;
 public class ReverseOfANumber {
     public static void main(String[] args) {

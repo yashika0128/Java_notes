@@ -1,4 +1,4 @@
-package Lecture03;
+package Lecture03BasicLoops;
 import java.util.*;
 public class TableOfN {
     public static void main(String[] args) {

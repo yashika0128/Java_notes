@@ -1,4 +1,4 @@
-package Lecture02;
+package Lecture02Conditional_Statements;
 import java.util.*;
 public class input {
     public static void main(String[] args) {

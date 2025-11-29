@@ -1,4 +1,4 @@
-package Lecture01;
+package Lecture01BasicPrint;
 public class Pattern01 {
     public static void main(String[] args){
         System.out.println("Right Half Pyramid:");

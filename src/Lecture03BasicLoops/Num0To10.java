@@ -1,4 +1,4 @@
-package Lecture03;
+package Lecture03BasicLoops;
 
 public class Num0To10 {
     public static void main(String[] args) {
