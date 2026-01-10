@@ -1,6 +1,6 @@
 package Array;
 
-public class Buy_sell_stocks {
+public class Leetcode_121_Buy_sell_stocks {
     public static void main(String[] args) {
 //        class Solution {
 //            public int maxProfit(int[] prices) {
