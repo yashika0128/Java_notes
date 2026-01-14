@@ -42,10 +42,5 @@ public class Product {
             }
             System.out.println();
         }
-
-
-
-
-
     }
 }
