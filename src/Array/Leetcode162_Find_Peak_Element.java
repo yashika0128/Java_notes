@@ -11,6 +11,5 @@ public class Leetcode162_Find_Peak_Element {
                 return nums.length-1;
             }
         }
-
     }
 }
