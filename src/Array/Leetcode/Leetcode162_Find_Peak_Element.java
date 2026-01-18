@@ -1,4 +1,4 @@
-package Array;
+package Array.Leetcode;
 
 public class Leetcode162_Find_Peak_Element {
     public static void main(String[] args) {

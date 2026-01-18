@@ -1,4 +1,4 @@
-package Array;
+package Array.Leetcode;
 import java.util.Scanner;
 public class leetcode01TwoSum {
     public static void main(String[] args) {

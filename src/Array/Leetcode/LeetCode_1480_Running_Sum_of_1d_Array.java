@@ -1,4 +1,4 @@
-package Array;
+package Array.Leetcode;
 public class LeetCode_1480_Running_Sum_of_1d_Array {
     public static void main(String[] args) {
 //        class Solution {

@@ -1,4 +1,4 @@
-package Array;
+package Array.Leetcode;
 
 public class Leetcode1295_Even_Number_of_Digits {
     public static void main(String[] args) {

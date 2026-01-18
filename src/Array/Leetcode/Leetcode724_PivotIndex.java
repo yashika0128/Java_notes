@@ -1,4 +1,4 @@
-package Array;
+package Array.Leetcode;
 
 public class Leetcode724_PivotIndex {
     public static void main(String[] args) {

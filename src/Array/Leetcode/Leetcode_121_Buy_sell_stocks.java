@@ -1,4 +1,4 @@
-package Array;
+package Array.Leetcode;
 
 public class Leetcode_121_Buy_sell_stocks {
     public static void main(String[] args) {
