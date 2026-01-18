@@ -1,4 +1,4 @@
-package _2D_Array;
+package _2D_Array.Leetcode;
 
 public class Leetcode1572_DiagonalSum {
     public static void main(String[] args) {

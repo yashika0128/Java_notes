@@ -1,4 +1,4 @@
-package _2D_Array;
+package _2D_Array.Leetcode;
 
 public class Leetcode867_TransposeMatrix {
     public static void main(String[] args) {
