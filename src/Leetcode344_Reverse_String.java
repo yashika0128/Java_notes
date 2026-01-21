@@ -1,5 +1,3 @@
-package String;
-
 public class Leetcode344_Reverse_String {
     public static void main(String[] args) {
         class Solution {
